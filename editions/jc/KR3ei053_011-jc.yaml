@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR3ei053/jc/v1/juan/11
+seq: 11
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 跋胎產指南一書其效如神余聞之久矣而醫家往往秘而不宣無從購求寧海任松云先生善岐黃術又心存濟人與余嘗談因果事甚相得昨偶言及病之險而難治者莫如胎產為甚伊即出此書以示見之如獲至寶亟付梓以公同好云光緒丁丑秋仲廬江丁維庚識
+  hash: sha256:4324afbdb7db67aff7ca4d66fb2c02ee31992c8018c226489a096598793280a1
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR3ei053_jc_000-d14.h1s1}
+metadata:
+  title: 胎產指南
+  edition:
+    short: jc
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ei053.xml
+hash: sha256:ca3f33cb48364361249420e72f0ed43aa35f0e8b4a9020e678b529b60b6d5841
